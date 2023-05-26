@@ -42,7 +42,7 @@ const Navbar = ({
                         />
 
                         <Link 
-                        page= "Benifits"
+                        page= "Benefits"
                         selectedPage={selectedPage}
                         setSelectedPage={setSelectedPage} 
                         />
