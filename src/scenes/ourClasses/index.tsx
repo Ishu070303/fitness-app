@@ -25,7 +25,6 @@ const classes: Array<ClassType> = [
 
     {
         name: "Abs Core Classes",
-        description: "Looking to build strength and tone your muscles? Join our weight training classes and achieve your fitness goals with expert guidance.",
         image: image3,
     },
 
@@ -37,7 +36,6 @@ const classes: Array<ClassType> = [
 
     {
         name: "Fitness Classes",
-        description: "Looking to build strength and tone your muscles? Join our weight training classes and achieve your fitness goals with expert guidance.",
         image: image5,
     },
 
