@@ -10,3 +10,9 @@ export interface BenefitType {
     title: string;
     description: string;
 }
+
+export interface ClassType {
+    name: string,
+    description?: string; //it can be optional or it does not exsists. 
+    image: string;
+}
