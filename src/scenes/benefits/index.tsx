@@ -46,7 +46,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
   return (
     <section id="benefits" className="mx-auto min-h-full w-5/6 py-20">
         <motion.div
-        onViewportEnter={() => setSelectedPage(SelectedPage.Benifits)}
+        onViewportEnter={() => setSelectedPage(SelectedPage.Benefits)}
         >
             {/* HEADER */}
             <motion.div 
@@ -101,7 +101,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
 
                     {/* TITLE */}
                     <div className="relative">
-                        <div className="before:absolute before:-top-20 before:-left-20 before:z-[1] before: content-stretch">
+                        <div className="before:absolute before:-top-20 before:-left-20 before:z-[1] before:content-abstractwaves">
                             <motion.div
                             initial="hidden"
                             whileInView="visible"
