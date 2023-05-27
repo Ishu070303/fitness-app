@@ -48,6 +48,6 @@ Give this repository a like!🥰
 
 ## Contact
 
-If you have any questions, feedback, or need assistance, please contact our support team at support@gymapp.com. We are here to help you make the most out of your fitness journey.
+If you have any questions, feedback, or need assistance, please contact me at eshikarawat02@gmail.com . We are here to help you make the most out of your fitness journey.
 
 Happy workouts💪🏻!
