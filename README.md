@@ -11,6 +11,9 @@ Let's get started!💪🏻
 
 - **Social Community**: Connect with fellow fitness enthusiasts, share your achievements, and motivate each other on your fitness journeys.
 
+## Deployment Link
+[https://evogym-app.netlify.app/](https://evogym-app.netlify.app/)
+
 ## Installation
 
 To get started with the Gym App, follow these steps:
